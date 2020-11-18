@@ -1,0 +1,4 @@
+#DN Properties
+db.url=jdbc:mysql:///adminkurjeris?serverTimezone=UTC
+db.username=courier
+db.password=

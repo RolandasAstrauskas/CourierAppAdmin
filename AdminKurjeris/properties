@@ -1,0 +1,4 @@
+#DN Properties
+db.url=jdbc:mysql:///courierdb
+db.username=new
+db.password=
